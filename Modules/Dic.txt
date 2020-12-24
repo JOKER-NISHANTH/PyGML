@@ -1,0 +1,9 @@
+employees=[{
+    "First_Name":"Vijay"
+    "Salary":10000
+},
+{
+    "First_Name":"Yalini"
+    "Salary":"20000"
+}
+]
